@@ -3,7 +3,8 @@
 Projeto de classificação de machine learning com aprendizado semi-supervisionado, mais especificamente, de classificação da qualidade de amostras de leite de uma indústria de laticínios. A principal ferramenta que utilizei foi a Scikit-Learn.
 
 Trabalhei num motebook do Google Colab e, além do Scikit-Learn, usei também a biblioteca Pandas, para o tratamento inicial dos dados.
-Tabela de dados: (qualidade_leite.csv) [https://github.com/mths-andrade/semisupervisionado/blob/0fa89c88762ef2ab7c2e1417b0a68c6ca40635ec/qualidade_leite.csv]
+
+Tabela dos dados: (qualidade_leite.csv) [https://github.com/mths-andrade/semisupervisionado/blob/0fa89c88762ef2ab7c2e1417b0a68c6ca40635ec/qualidade_leite.csv]
 
 O conjunto de dados utilizado contém diversas características a respeito de amostras de leite, no intuito de serem utilizadas para classificar a qualidade do leite entre três categorias:
 
