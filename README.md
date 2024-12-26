@@ -1,4 +1,4 @@
-# semisupervisionado
+# Aprendizado semi-supervisionado
 
 Projeto de classificação de machine learning com aprendizado semi-supervisionado, mais especificamente, de classificação da qualidade de amostras de leite de uma indústria de laticínios. A principal ferramenta que utilizei foi a Scikit-Learn.
 
@@ -9,7 +9,9 @@ Tabela dos dados: (qualidade_leite.csv) [https://github.com/mths-andrade/semisup
 O conjunto de dados utilizado contém diversas características a respeito de amostras de leite, no intuito de serem utilizadas para classificar a qualidade do leite entre três categorias:
 
 Qualidade baixa (Ruim)
+
 Qualidade média (Moderada)
+
 Qualidade alta (Boa)
 
 A tabela é composta por 7 variáveis independentes: pH, temperatura, sabor, odor, gordura, turbidez e cor. Essas informações estão em formato numérico e desempenham um papel fundamental na análise preditiva do leite.
